@@ -371,7 +371,7 @@ targetSdk 32
    ```
     String strategy = "";
     int ad_type = 3;
-    if(ZxHwSDK.adShow(strategy, AD_Type_Rewarded)){
+    if(ZxHwSDK.adShow(strategy, ad_type)){
         //do something
     }
    ```
