@@ -4,7 +4,7 @@ SDK-Android 接入文档
 
 # 环境准备
 
-+ 在以下环境通过测试  
++ 测试环境  
 Android Studio 2020.3  
 gradle 7.0.4
 minSdk 19   
