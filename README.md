@@ -6,7 +6,7 @@ SDK-Android 接入文档
 
 + 测试环境  
 Android Studio 2020.3  
-gradle 7.0.4
+gradle 7.0.4   
 minSdk 19   
 targetSdk 32   
 
