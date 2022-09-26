@@ -360,7 +360,7 @@ targetSdk 32
   -   查询广告状态
    ```
     String strategy = "";
-    int ad_type = AD_Type_Rewarded;
+    int ad_type = 3;
     if(ZxHwSDK.isAdReady(strategy,ad_type)){
         //do something
     }
@@ -370,7 +370,7 @@ targetSdk 32
    激励视频的奖励，通过ZxHwSDKHandler 的handleAdEarnedReward()接口回调给业务层。   
    ```
     String strategy = "";
-    int ad_type = AD_Type_Rewarded;
+    int ad_type = 3;
     if(ZxHwSDK.adShow(strategy, AD_Type_Rewarded)){
         //do something
     }
