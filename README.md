@@ -10,7 +10,7 @@ gradle 7.0.4
 minSdk 19   
 targetSdk 32   
 
-+ 物料清单说明(单独提供)   
++ SDK物料清单说明(单独提供)   
   -   Applovin_APIKey, 替换build.gradle对应的值   
   -   Applovin_SdkKey,替换AndroidManifest.xml对应的值  
   -   Admob_PubKey,替换AndroidManifest.xml对应的值  
