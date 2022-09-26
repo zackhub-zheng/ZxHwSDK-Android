@@ -307,7 +307,7 @@ targetSdk 32
 
             @Override
             public void handleAdEarnedReward(String adUnit, String rewardType, int rewardAmount) {
-                //激励视频完成，发放奖励回调
+                //激励视频完成，发放奖励的回调
                 /*
                     AppActivity app = (AppActivity)activity;
                     app.runOnGLThread(new Runnable() {
